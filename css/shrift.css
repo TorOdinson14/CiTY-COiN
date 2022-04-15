@@ -143,6 +143,17 @@ table {
 
 
 
+
+h1 a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
 h1 {
     text-align: left;
     margin: 10px 0 0 10px;
