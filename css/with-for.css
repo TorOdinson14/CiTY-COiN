@@ -157,25 +157,3 @@ header {
 
 
 
-    
-h2 {
-    text-align: center;
-    color: aliceblue;
-    font-size: 35px;
-    margin : 0 0;
-}
-
-h3{
-    margin: 0 0;
-    font-size: 30px;
-}
-
-
-
-
-p{
-    margin: 0 0;
-    color: #000;
-    font-size: calc(8spx + 16 * (100vw / 1280));
-}
-
