@@ -144,17 +144,6 @@ header {
 
 
 
-#video{
-    width: 100%;
-   height: auto;
-position: absolute;
-top: 0px;
-left: 0;
-
-z-index: -1;
-}
-
-
 
 
 
