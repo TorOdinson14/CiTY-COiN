@@ -9,9 +9,8 @@ body {
 
 
 
-header::after{
-height: 500px;
-  min-height: 30vh;
+header{
+
 
 }
 
