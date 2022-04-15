@@ -40,3 +40,10 @@
 
 /***************************************/
 
+div.text-content{
+  font-size: 20px;
+
+}
+.text-content li {
+  padding: 5px 5px;
+}
