@@ -102,6 +102,17 @@ section {
     display: block;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 body {
     word-wrap: break-word;
     line-height: 1;
@@ -148,26 +159,5 @@ h1 {
 }
 
 
-h2 {
-    text-align: center;
-    font-size: 35px;
-    margin: 0 0;
-    color: black;
-}
-
-h3 {
-    margin: -15px 0 0px 10px;
-    padding: 0 0 10px 0;
-    font-size: 25px;
-}
-
-a {
-    color: rgb(211, 211, 211);
-}
 
 
-p {
-    margin: 0 0;
-    color: #000;
-    font-size: calc(8spx + 16 * (100vw / 1280));
-}

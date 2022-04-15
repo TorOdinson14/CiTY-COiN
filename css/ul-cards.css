@@ -40,10 +40,78 @@
 
 /***************************************/
 
-div.text-content{
-  font-size: 20px;
-
+body {
+  word-wrap: break-word;
+  line-height: 1;
 }
-.text-content li {
-  padding: 5px 5px;
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+
+h1 {
+  text-align: left;
+  margin: 10px 0 0 10px;
+  color: aliceblue;
+  font-size: 33px;
+}
+
+@media (max-width : 767px) {
+  h1 {
+      padding-right: 20px;
+      margin: 10px 0 0 5px;
+      font-size: 23px
+  }
+}
+
+
+
+
+
+
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  margin: 0 0;
+  color: black;
+}
+
+h3 {
+  margin: -15px 0 0px 10px;
+  padding: 0 0 10px 0;
+  font-size: 25px;
+}
+
+a {
+  color: rgb(211, 211, 211);
+}
+
+
+p {
+  margin: 0 0;
+  color: #000;
+  font-size: calc(8spx + 16 * (100vw / 1280));
+  line-height: 1.3em;
 }
