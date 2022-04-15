@@ -7,7 +7,7 @@
     width: 100%;
   
     display: flex;
-    justify-content: space-between;
+   justify-content: center;
     flex-wrap: wrap;
   
 }
@@ -16,7 +16,7 @@
 button {
  
     border-radius: 20px;
-    margin:10px 10px 0 10px;
+    margin:5px 5px;
 width: 70px;
     height: 30px;
 
@@ -31,7 +31,7 @@ width: 70px;
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 0px 16px;
+    padding: 2px 16px;
     font-size: 12px;
 
 }
@@ -42,9 +42,7 @@ width: 70px;
 
 /* Style the tab content (and add height:100% for full page content) */
 .tabcontent {
-  
-    display: none;
-
+      display: none;
     margin: 0 0;
 }
 

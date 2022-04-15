@@ -48,26 +48,19 @@ border-spacing: 0;
 
 
 h1 {
-text-align: center;
-    margin: 20px 0 0 10px;
+text-align: left;
+    margin: 10px 0 0 10px;
     color: aliceblue;
     font-size: 33px;
 }
 
 @media (max-width : 767px) {
    h1 {
-display: none;
+    margin: 10px 0 0 5px;
+    font-size: 23px
+   }
 }
 
-@media (max-width : 500px) {
-    h1 {
- display: none;
- }
- 
- @media (max-width : 400px) {
-    h1 {
- display: none;
- }
 
 h2 {
     font-size: 35px;
