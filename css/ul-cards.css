@@ -115,3 +115,27 @@ p {
   font-size: calc(8spx + 16 * (100vw / 1280));
   line-height: 1.3em;
 }
+
+
+
+/*-----------instryments card-----------------*/
+.instrument-cards div{
+width: 50%;
+}
+
+.instrument-cards li{
+  width: 100%;
+  height: 200px;
+  display: flex;
+flex-wrap: wrap;
+}
+
+
+.instrument-cards img{
+width: 100%;
+height: 100%;
+}
+
+.instrument-cards p{
+  padding: 5px 10px 0 10px;
+}
