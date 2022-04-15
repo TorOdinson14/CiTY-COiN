@@ -128,12 +128,12 @@ width: 49%;
 margin-bottom: 0px;
   display: flex;
 flex-wrap: wrap;
-border-bottom: 5px solid;
+border-bottom: 10px solid;
 }
 
 
 .instrument-cards img{
-width: 70%;
+width: 90%;
 height: 100%;
 float: left;
 margin-bottom: 0px;
