@@ -48,7 +48,9 @@ border-spacing: 0;
 
 
 h1 {
+    display: block;
     width: 100px;
+    height: 30px;
     margin: 20px 0 0 10px;
     color: aliceblue;
     font-size: 33px;

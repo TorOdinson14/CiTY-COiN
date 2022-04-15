@@ -4,9 +4,10 @@
 
 
 .tab {
-    width: 85%;
+    width: 100%;
+  
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
   
 }
@@ -15,22 +16,22 @@
 button {
  
     border-radius: 20px;
-    margin:10px 25px 0 15px;
-min-width: 90px;
-    height: 40px;
-  
+    margin:10px 10px 0 10px;
+min-width: 70px;
+    height: 30px;
+
 
 }
 
 .tablinks {
-  
+
     background-color: rgba(71, 71, 71, 0.548);
     color: rgb(192, 192, 192);
     float: left;
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 5px 16px;
     font-size: 15px;
 
 }
