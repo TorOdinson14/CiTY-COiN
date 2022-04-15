@@ -128,7 +128,7 @@ width: 49%;
 margin-bottom: 0px;
   display: flex;
 flex-wrap: wrap;
-border-bottom: 10px solid;
+border-bottom: 14px solid;
 }
 
 
@@ -140,5 +140,6 @@ margin-bottom: 0px;
 }
 
 .instrument-cards p{
+  margin: 0 0;
   padding: 0px 10px 0 5px;
 }
