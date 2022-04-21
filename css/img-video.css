@@ -3,23 +3,39 @@
 }
 
 
-
-iframe {
-    min-width: 100%;
-    min-height: 900px;
-}
-
-
-
-
-
-#video{
+#video-fon{
     width: 100%;
    height: auto;
 position: absolute;
 top: 80px;
 z-index: -1;
 }
+
+
+
+iframe {
+    width:300px;
+    min-height: 200px;
+    margin: 0 0 0 5px ;
+}
+
+
+
+
+
+
+
+
+
+.div-video{
+
+        margin-top: -200px ;
+
+     
+    
+    }
+
+
 
 /******************?/
 
