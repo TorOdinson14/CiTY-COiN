@@ -85,13 +85,19 @@
 }
 
 .ul-cards p {
-  color: rgb(255, 255, 255);
+  color: rgb(233, 233, 233);
   padding: 2px 5px 2px 5px ;
   font-size: 12px;
   
 }
 
-
+@media (max-width : 1400px) {  
+  .ul-cards p {
+    font-weight: 800;
+  padding: 2px 5px 2px 5px ;
+  font-size: 14px;
+  }
+}
 
 /***************************************/
 
