@@ -1,7 +1,7 @@
 body {
 
     background-color: rgb(135, 135, 135);
-    word-break:break-all;
+    word-break: break-all;
 }
 
 
@@ -10,18 +10,18 @@ body {
 
 
 
-#header-h-tab{
+#header-h-tab {
 
-height: 80px;
-  background-color: black;
+    height: 80px;
+    background-color: black;
 }
 
 
 
-#header-tabcontent{
+#header-tabcontent {
 
     width: 100%;
-margin: 0 0 0 0 ;
+    margin: 0 0 0 0;
 }
 
 
@@ -42,11 +42,28 @@ margin: 0 0 0 0 ;
 .container {
     min-width: 100%;
     height: 700px;
-   }
-   
+}
 
 
 
-   #news{
-       display: flex;
-   }
+
+#news {
+    display: flex;
+}
+
+
+
+.stranica {
+
+    margin: -70px 0 0 0;
+    justify-content: space-around;
+    display: flex;
+}
+
+
+.stranica  :last-child{
+margin-left: auto;
+
+}
+
+
