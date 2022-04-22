@@ -30,8 +30,8 @@ z-index: 1;
 /* Style the accordion panel. Note: hidden by default */
 .panel {
  
-    min-width: 98%;
-    height: 500px;
+    min-width: 99%;
+    height: auto;
   margin: 0 0;
     background-color: white;
     display: none;
