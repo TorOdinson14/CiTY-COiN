@@ -20,7 +20,7 @@ z-index: -1;
 
 
 
-#News iframe, #Trading iframe {
+#News iframe, #Trading iframe, #NFT iframe {
     width:100%;
     height: 500px;
     min-height: 200px;
