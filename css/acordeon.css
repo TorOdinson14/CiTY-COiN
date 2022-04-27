@@ -45,3 +45,20 @@ z-index: 1;
 .News-text li{
     padding: 5px 10px 5px 10px;
 }
+
+
+
+.text-acordeon  p{
+  padding: 0px 50px 8px 50px;
+
+}
+
+.text-acordeon span{
+ 
+    color: rgb(18, 15, 15); /* Цвет текста */
+    font-weight: 800; /* Жирное начертание */
+  }
+.text-acordeon img{
+width: 70%;
+height: auto;
+}
