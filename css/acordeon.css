@@ -56,7 +56,7 @@ z-index: 1;
 .text-acordeon span{
  
     color: rgb(18, 15, 15); /* Цвет текста */
-    font-weight: 800; /* Жирное начертание */
+    font-weight: 8 00; /* Жирное начертание */
   }
 .text-acordeon img{
 width: 70%;
